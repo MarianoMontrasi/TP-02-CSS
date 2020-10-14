@@ -1,0 +1,24 @@
+h1 {
+    font-family: serif;
+    font-size: 50px;
+    color: #000000;
+    margin: 10px 10px;
+    line-height: 4rem;
+    font-weight: 700;
+}
+
+.container1 {
+    font-family: helvetica, arial;
+    font-size: 16px;
+    color: #333333;
+    margin: 5px 10px;
+}
+.container2 {
+    font-family: serif;
+    font-size: 20,8px;
+    color: #000000;
+    margin: 0px 0px 15px;
+}
+.container3 {
+    font-weight: bold;
+}
