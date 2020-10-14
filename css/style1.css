@@ -25,6 +25,7 @@ h3 {
     width: 140px;
     height: 15px;
     padding: 5px;
+    display: inline;
 }
 #im1 {
     width: 1000px;
@@ -103,4 +104,14 @@ a {
 #link {
     color: #000000;
     text-decoration: none;
+}
+#fecha {
+    color: #333333;
+    font-size: 16px;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;;
+    height: 20px;
+    position: relative;
+    left: 950px;
+    width: 400px;
+    display: inline;
 }
