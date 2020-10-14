@@ -115,3 +115,8 @@ a {
     width: 400px;
     display: inline;
 }
+#new {
+    margin: 50px;
+    position: relative;
+    left: 900px;
+}

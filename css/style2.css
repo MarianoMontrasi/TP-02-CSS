@@ -182,3 +182,8 @@ li {
     color: #333333;
     margin: 0px 0px 12px;
 }
+#new {
+    margin: 50px;
+    position: relative;
+    left: 550px;
+}
